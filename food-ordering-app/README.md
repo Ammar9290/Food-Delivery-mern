@@ -1,6 +1,6 @@
-# Food Ordering App Built Using MERN Stack!
+# Food Ordering App (MERN)
 
-For a tutorial, please watch [this video](https://www.youtube.com/watch?v=x4dIga_3S4I).
+I used this tutorial, watch [this video](https://www.youtube.com/watch?v=x4dIga_3S4I).
 
 ## Available Scripts
 
